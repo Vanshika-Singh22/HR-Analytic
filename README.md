@@ -34,4 +34,12 @@ Sales department has the highest attrition rate
 Younger employees (age group 18–30) tend to leave more
 Employees with lower salary show higher attrition
 Certain job roles contribute more to employee turnover
-![Dashboard](dashboard.png)
+Dashboard Preview
+![Dashboard](Screenshot 2026-03-31 223629.png)
+✅ Conclusion
+The analysis shows that factors like salary, age, and department significantly impact employee attrition.
+Improving employee engagement, work environment, and compensation can help reduce attrition.
+🚀 Future Scope
+Build an advanced dashboard using Power BI
+Apply Machine Learning models to predict attrition
+Perform deeper analysis using Python
