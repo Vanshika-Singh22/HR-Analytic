@@ -1,23 +1,22 @@
 # HR-Analytic
 HR Analytics Dashboard (IBM HR Dataset)
-📌 Project Description
-
+##📌 Project Description
 This project analyzes employee attrition using the IBM HR Analytics dataset.
 An interactive dashboard is created to identify key patterns and factors affecting employee turnover.
 Objective
 To analyze employee attrition trends
 To identify factors influencing employee turnover
 To help HR departments make data-driven decisions
-📂 Dataset Information
+##📂 Dataset Information
 Dataset: IBM HR Analytics Dataset
 Total Records: 1470 employees
 Key Features: Age, Salary, Department, Job Role, Gender, Attrition, Education
-🛠 Tools & Technologies Used
+##🛠 Tools & Technologies Used
 Microsoft Excel
 Pivot Tables
 Charts & Graphs
 Slicers
-⚙️ Project Process
+##⚙️ Project Process
 Data Cleaning
 Removed missing values
 Checked data consistency and formatting
@@ -28,18 +27,17 @@ Dashboard Creation
 Built interactive charts
 Used slicers for dynamic filtering
 Designed a clean and professional layout
-📊 Key Insights
-Key Insights
+##📊 Key Insights
 Sales department has the highest attrition rate
 Younger employees (age group 18–30) tend to leave more
 Employees with lower salary show higher attrition
 Certain job roles contribute more to employee turnover
-Dashboard Preview
+##Dashboard Preview
 ![Dashboard](Screenshot 2026-03-31 223629.png)
-✅ Conclusion
+##✅ Conclusion
 The analysis shows that factors like salary, age, and department significantly impact employee attrition.
 Improving employee engagement, work environment, and compensation can help reduce attrition.
-🚀 Future Scope
+##🚀 Future Scope
 Build an advanced dashboard using Power BI
 Apply Machine Learning models to predict attrition
 Perform deeper analysis using Python
